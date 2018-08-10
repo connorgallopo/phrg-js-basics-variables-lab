@@ -86,6 +86,11 @@ In the next `it` function call, we are still describing `companyName`. This time
 + `mostProfitableNeighborhood` - Here we need to declare another variable, `mostProfitableNeighborhood` and assign to it the string `'Chelsea'`. In the next `it` function call, you can see that our tests ensure that `mostProfitableNeighborhood` does not throw an error when reassigned. So you need to make sure that you are using the correct type of variable declaration such that assigning a new value to `mostProfitableNeighborhood` doesn't throw an error.
 + `companyCeo` - Here, we are getting more practice with declaring variables. Once again, a reassignment should not throw an error.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-basics-variables-lab/issues) or [pull-reqeust](link https://github.com/learn-co-curriculum/phrg-js-basics-variables-lab/pulls). Please provide a detailed description that explains the issue you have found or the change your are proposing. Please remember to "@" mention your instructor in a comment on the issue or pull-reqeust, and to send them a link via Connect.
+
+
 ## Resources
 - [MDN: Let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
 - [MDN: Const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
